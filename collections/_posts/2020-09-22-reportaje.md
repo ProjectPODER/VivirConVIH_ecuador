@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ecuador: la odisea de conseguir antirretrovirales en hospitales de la seguridad social"
-author: "Michelle Nogales, Esther Mamani y Mijail Miranda"
+author: "Ana Cristina Basantes"
 ---
 
 Ecuador: la odisea de conseguir antirretrovirales en hospitales de la seguridad social
