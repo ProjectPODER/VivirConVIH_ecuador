@@ -1,17 +1,14 @@
 ---
 layout: home
-title: Home
+title: Inicio
 permalink: /
 ---
 
-# THIS IS THE FIRST TITLE
+# Ecuador: la odisea de conseguir antirretrovirales en hospitales de la seguridad social
 
-This text is a paragraph.
-This won't be another paragraph, it will join the line above it.
+Las personas con VIH solo pueden obtener sus antirretrovirales en hospitales públicos, lo que las obliga a realizar viajes hasta Guayaquil, Quito y Cuenca, donde se concentra la atención de casos. Sin embargo, en la mayoría de hospitales hay desabastecimiento de estas medicinas. Recientemente, la Corte Constitucional instó al Ministerio de Salud y al Instituto Ecuatoriano de Seguridad Social a garantizar el abastecimiento de antirretrovirales en la red pública de hospitales. Deben verse cambios en tres meses.
 
-This will be another paragraph, as it has a blank line above it.
-
-[Website version](https://towerbuilder.projectpoder.org/)
-[Website iframe version](https://towerbuilder.projectpoder.org/?iframe)
-[Visualization iframe](https://towerbuilder.projectpoder.org/iframe-visualization/)
-[Slider iframe](https://towerbuilder.projectpoder.org/iframe-slider/)
+[Reportaje](/2020/09/22/reportaje.html)
+[Entrevista](/entrevista/)
+[Testimonios](/testimonios/)
+[Contratos](/contratos/)
