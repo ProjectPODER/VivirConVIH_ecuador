@@ -6,15 +6,18 @@ permalink: /entrevista/
 
 # “Difícilmente el Ecuador va a alcanzar la meta 90-90-90 contra el VIH para 2030”
 
-*La lucha contra el VIH no cumplirá con sus objetivos en el país. Las dificultades en el acceso a antirretrovirales y a la atención médica para las personas diagnosticadas se han recrudecido en la pandemia, por lo que la brecha en acciones de prevención será difícil de superar en la próxima década.*
+**_La lucha contra el VIH no cumplirá con sus objetivos en el país. Las dificultades en el acceso a antirretrovirales y a la atención médica para las personas diagnosticadas se han recrudecido en la pandemia, por lo que la brecha en acciones de prevención será difícil de superar en la próxima década._**
 
-Por Ana Cristina Basantes
+*Por Ana Cristina Basantes • Septiembre 22, 2020*
 
 Desde el 2015, el mundo persigue la meta 90-90-90 en el tratamiento contra el VIH para contribuir al fin de la epidemia del Síndrome de Inmunodeficiencia Adquirida (sida). Para ello, según el Programa Conjunto de las Naciones Unidas sobre el VIH/sida (ONUsida), se esperaban estos resultados para el 2020: que el 90% de las personas que viven con el VIH conozcan su estado serológico respecto al VIH, que el 90% de las personas diagnosticadas con el VIH reciban terapia antirretrovírica continuada y que el 90% de las personas que reciben terapia antirretrovírica tengan supresión viral. 
 
 El objetivo es el fin de la epidemia de sida para el año 2030, pero llegó e la covid-19 que amenaza con cambiar estos planes. De acuerdo a ONUsida, la respuesta del mundo frente al sida podría retrasarse en 10 años o más si la pandemia del coronavirus continúa provocando graves interrupciones en los servicios para el VIH.
 
-Orlando Montoya, consultor en Educación Comunitaria e Investigación en Corporación Kimirina, una organización que trabaja desde hace 20 años en siete ciudades del país, explica en esta entrevista las razones por las cuales el Ecuador no alcanzará los objetivos contra el VIH en los próximos 10 años.   
+Orlando Montoya, consultor en Educación Comunitaria e Investigación en Corporación Kimirina, una organización que trabaja desde hace 20 años en siete ciudades del país, explica en esta entrevista las razones por las cuales el Ecuador no alcanzará los objetivos contra el VIH en los próximos 10 años.
+
+{:.image-post}
+![]({{ site.baseurl }}/assets/img/PHOTO-2020-09-03-15-40-43.jpg)
 
 ## ¿Qué tan lejos está cumplir la meta 90-90-90 en el Ecuador?
 El cumplimiento de la meta 90-90-90 en el Ecuador difícilmente se va a lograr. En prevención sigue habiendo un gran déficit y, obviamente, el alcance de las metas tiene que ver con las acciones que no se han desarrollado en este ámbito. Para que hallan avances se tiene que adoptar el uso de las nuevas tecnologías de prevención como la profilaxis pre exposición (PrEP), que previene la infección por VIH en población de alto riesgo, y la profilaxis post exposición (PEP), que es un tratamiento de emergencia para el VIH que se toma después de una posible exposición al virus. 
@@ -41,7 +44,3 @@ Hemos trabajado arduamente en apoyar a algunas personas que tenían un diagnóst
 ## ¿Ha habido algún grupo vulnerable dentro de los pacientes de VIH que ha sido especialmente golpeado por la pandemia?
 Las poblaciones trans-femeninas y las trabajadoras sexuales han sido las más afectadas debido a que, por las regulaciones que se establecieron para enfrentar la crisis causada por el COVID-19, no han podido ejercer el trabajo sexual y, por ende, han visto afectada su subsistencia diaria. De hecho, fueron las primeras personas que apoyamos desde Kimirina para su subsistencia, alimentación, atención médica y entrega de medicamentos.
 
-
-
-{:.image-post}
-![]({{ site.baseurl }}/assets/img/)
