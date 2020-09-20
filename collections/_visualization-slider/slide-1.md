@@ -3,6 +3,6 @@ title: Slide 1
 image: visualization-example.png
 ---
 
-# THIS IS THE FIRST SLIDE
+En Ecuador se han podido encontrar un gasto de 2,267,285.88 dólares en medicamentos antirretrovirales en el periodo 2017-2019. Esa muestra está sesgada ya que la República del Ecuador no publica las compras que realiza a través de organismos internacionales. 
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Organizaciones sociales denuncian que durante el 2020 el desabasto de ARV en Ecuador obliga a las personas que viven con VIH a realizar viajes largos para conseguir sus medicinas. Esto implica mayor riesgo de contraer covid-19 y mayores gastos o costos en traslados para estas personas.
