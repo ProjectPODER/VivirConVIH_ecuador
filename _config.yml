@@ -23,7 +23,7 @@ description: >-
   El desabasto de medicamentos en Ecuador obliga a las personas que viven con VIH a realizar viajes largos para conseguir sus ARV. Esto implica mayor riesgo de contraer COVID-19 y mayores gastos o costos en traslados para estas personas.
 
 # URL of your contracts file or API endpoint
-contracts_url: "https://landing.vivirconvih.org/assets/data/vih_ecuador.csv"
+contracts_url: "https://vivirconvih.org/assets/data/vih_ecuador.csv"
 #contracts_url: "https://api.beta.quienesquien.wiki/v2/contracts?sort=-compiledRelease.total_amount&compiledRelease.parties.memberOf.name=%2FGrupo%20Aeroportuario%2Fi&debug=true&limit=614"
 
 
@@ -32,7 +32,7 @@ bods_url: ""
 
 graph:
   # The name of your graphic
-  - title: "Graphic name"
+  - title: "Ecuador 2017-19"
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximativo)
   - sizes:
     - min: 10
