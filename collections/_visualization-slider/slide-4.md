@@ -7,4 +7,4 @@ El 84% de importe contratado fue para Oxialfarm, que se presenta como “Un gran
 
 La empresa presenta las compras con mayores sobrecostos y fue acusada en 2016 de malas prácticas en los procesos de adjudicación por fingir pujas en subastas para resultar beneficiada.
 
-[VER INFORME COMPLETO]()
+[VER INFORME COMPLETO](https://vivirconvih.org/assets/informevivirconvih.pdf)
