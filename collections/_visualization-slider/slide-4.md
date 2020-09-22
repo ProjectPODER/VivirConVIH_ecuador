@@ -1,6 +1,6 @@
 ---
 title: Slide 4
-image: visualization-example.png
+image: visualizacion4.jpg
 ---
 
 El 84% de importe contratado fue para Oxialfarm, que se presenta como “Un gran reto farmacéutico hecho en Ecuador”. 

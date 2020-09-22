@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: visualization-example.png
+image: visualizacion2.jpg
 ---
 
 La subasta inversa, en la que el comprador define sus necesidades y los vendedores presentan sus ofertas quedando seleccionada la más baja, es la modalidad de compra más usada para realizar la compras de ARV. 

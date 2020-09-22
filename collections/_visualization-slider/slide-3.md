@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: visualization-example.png
+image: visualizacion3.jpg
 ---
 
 Los antirretrovirales más comprados por el Estado ecuatoriano son las combinaciones de Emtricitabina con Tenofovir y el Abacavir con Lamivudina, medicamentos de primera y segunda línea respectivamente. En total, en las compras se han encontrado tres tipos de ARV para niños, uno de primera línea, dos de segunda y otro que sirve para ambas. 
