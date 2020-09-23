@@ -7,7 +7,7 @@ author: "Ana Cristina Basantes"
 {:.image-post}
 ![Ecuador: la odisea de conseguir antirretrovirales en hospitales de la seguridad social]({{ site.baseurl }}/assets/img/ECUADOR.jpg)
 
-Este reportaje también se publicó en [GK city](https://gk.city/2020/09/21/conseguir-medicamentos-vih-ecuador/).
+Este reportaje también se publicó en [GK](https://gk.city/vivir-con-vih-en-ecuador/).
 
 Hace 20 años que Manu* vive con el VIH. Su expareja le llamó para decirle que había dado positivo en la prueba del VIH. Fue un golpe duro y, aunque al inicio no quiso asimilar la idea de que él también podía tener ese diagnóstico, se hizo el test y el resultado fue el mismo. Inició su tratamiento en el Hospital de Infectología Dr. José Daniel Rodríguez Maridueña en la ciudad de Guayaquil. Poco después, en 2004, se mudó a Quito por motivos laborales y prosiguió su terapia en el hospital Carlos Andrade Marín del Instituto Ecuatoriano de Seguridad Social (IESS), conocido como el HCAM. 
 
